@@ -2,7 +2,7 @@
 
 Lab 4
 
-The purpose of this lab was to demonstrate some of the location-based features regarding the Mapbox api. These features are the ability to export a map designed in Mapbox studio (an online map editing web app), the ability to make a marker on the map from a small geoJSON format and the directions map api.
+The purpose of this lab was to demonstrate some of the location-based features regarding the Mapbox api. These features have the ability to export a map designed in Mapbox studio (an online map editing web app), the ability to make a marker on the map from a small geoJSON format and the directions map api.
 
 Mapbox studio enables the user to create both 3d and 2d maps, show elevation and other traditional map features. Using Mapbox studio, I enabled a 3d terrain with the 3d buildings being the color brown. This went best with the opacity level because the map directions api does not enable the user to view the map from anything other than a top-down perspective. One of the key features of this is to point out specific points in a map. I did this with 3 specific areas; being Brooklyn College, Coney Island and Bush Terminal Park. The landmarks are denoted by a white flower with a black circle for a center and a green outline.
 
